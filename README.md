@@ -23,7 +23,7 @@ Before you begin the installation process, ensure you have Flutter installed on 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/vijaysuryabaka/.git
+git clone https://github.com/vijaysuryabaka/TelegramLiveLocation.git
 cd TelegramLiveLocation
 ```
 for installing the pacakages:
